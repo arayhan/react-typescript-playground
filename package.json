@@ -42,5 +42,8 @@
       "last 1 safari version"
     ]
   },
-  "packageManager": "yarn@3.6.0"
+  "packageManager": "yarn@3.6.0",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
 }
